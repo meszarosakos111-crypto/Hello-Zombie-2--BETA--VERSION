@@ -1,0 +1,20 @@
+INSTALLATION
+
+1. Win and R %appdata%
+2. .minecraft
+3. Put the map folder into:
+.minecraft/saves
+
+4. Put the resource pack into:
+.minecraft/resourcepacks
+
+5. Enable the resource pack.
+6. Start the world.
+
+Recommended:
+- Render Distance: 21 chunks
+- Sound: 100%
+- Brightness: Moody
+-Fov:60
+
+Make sure,that its realistic,and Horror.
