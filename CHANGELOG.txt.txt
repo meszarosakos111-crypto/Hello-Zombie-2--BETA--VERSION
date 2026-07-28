@@ -1,0 +1,14 @@
+# Version BETA 0.1
+
+Added:
+- Neighbor AI
+- Basement area
+- Horror events
+- Custom sounds
+- Glitch effects
+
+Fixed:
+- Door bugs
+- Command issues
+-Teleport Bugs
+-AI Movement
